@@ -26,13 +26,12 @@ Users must be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![./design-preview.png]
 
 ### Links
 
 - Solution URL: [https://github.com/DannyMolina/four-card-feature.git]
-- Live Site URL: [https://four-card-feature-psyduck.netlify.app
-  ]
+- Live Site URL: [https://four-card-feature-psyduck.netlify.app]
 
 ## my process
 
