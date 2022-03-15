@@ -26,7 +26,7 @@ Users must be able to:
 
 ### Screenshot
 
-![./design-preview.png]
+![](./design-preview.png)
 
 ### Links
 
